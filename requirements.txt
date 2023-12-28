@@ -1,0 +1,3 @@
+bezier
+matplotlib
+numpy

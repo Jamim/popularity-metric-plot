@@ -1,0 +1,6 @@
+[tool.ruff]
+line-length = 79
+target-version = "py311"
+
+[tool.ruff.format]
+quote-style = "single"
